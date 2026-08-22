@@ -154,11 +154,6 @@ my-sales-project/
 │   ├── eda_customer_segmentation.png           # Customer scatter matrix
 │   └── eda_correlation_heatmap.png             # Statistical correlation heatmap
 │
-├── Background/                                  # Power BI canvas background assets
-│   ├── Page 1.png                              # Background layout for Page 1
-│   ├── Page 2.png                              # Background layout for Page 2
-│   └── Page 3.png                              # Background layout for Page 3
-│
 ├── EDA_Regional_Sales_Analysis.ipynb           # Complete Jupyter Notebook (Python EDA & Wrangling)
 ├── SALES REPORT.pbix                           # Interactive Power BI Report File
 ├── PPT --- Regional Sales Analysis.pptx        # Executive Slide Deck for Stakeholders
